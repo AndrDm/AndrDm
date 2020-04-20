@@ -2,6 +2,7 @@
 layout: post
 title: "ASTM E2597 IQI in FreeCad"
 categories: [ASTM, CAD, 3D]
+permalink: /2020-04-20-ASTM2597-FreeCadSTL/
 typora-copy-images-to: ..\assets\images
 ---
 
