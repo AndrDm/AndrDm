@@ -10,7 +10,7 @@ categories: [jekyll]
 ```console
 _posts/YEAR-MONTH-DAY-title.md
 ```
-https://jekyllrb.com/docs/posts/
+<https://jekyllrb.com/docs/posts/>
 
 ### Images
 
@@ -19,12 +19,20 @@ https://jekyllrb.com/docs/posts/
 ![My photo]({{ site.url }}/assets/photo.jpg)
 ```
 
-https://jekyllrb.com/docs/posts/#including-images-and-resources
+<https://jekyllrb.com/docs/posts/#including-images-and-resources>
 
 ### Files
 
 ```console
 [get the PDF]({{ site.url }}/assets/mydoc.pdf)
+```
+
+### Links
+
+```console
+[National Instruments](http://ni.com){:target="_blank"}
+[http://ni.com](http://ni.com){:target="_blank"}
+<http://ni.com>
 ```
 
 ### Categories and Tags
@@ -38,11 +46,11 @@ tags: [hot, summer]
 ---
 ```
 
-https://jekyllrb.com/docs/posts/#categories-and-tags
+<https://jekyllrb.com/docs/posts/#categories-and-tags>
 
 Refer to
 
-https://learn.cloudcannon.com/jekyll-cheat-sheet/
+<https://learn.cloudcannon.com/jekyll-cheat-sheet/>
 
-https://devhints.io/jekyll
+<https://devhints.io/jekyll>
 
