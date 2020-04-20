@@ -21,6 +21,12 @@ https://jekyllrb.com/docs/posts/
 
 https://jekyllrb.com/docs/posts/#including-images-and-resources
 
+### Files
+
+```console
+[get the PDF]({{ site.url }}/assets/mydoc.pdf)
+```
+
 ### Categories and Tags
 
 ```console
