@@ -10,9 +10,9 @@ Just for fun
 
 ![image-20200421001842532](../assets/images/image-20200421001842532.png)
 
-STL]({{ site.url }}/assets/ASTM2597StepWedge.stl)
+[STL File]({{ site.url }}/assets/ASTM2597StepWedge.stl)
 
-FreeCad({{ site.url }}/assets/ASTM2597StepWedge.FCStd)
+[FreeCad File]({{ site.url }}/assets/ASTM2597StepWedge.FCStd)
 
 #### In Simulator
 
