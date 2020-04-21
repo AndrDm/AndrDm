@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jekyll notes"
-permalink: /2020-04-20-Jekyll-Cheat-Sheet/
+permalink: /2020-04-19-Jekyll-Cheat-Sheet/
 categories: [jekyll]
 ---
 
